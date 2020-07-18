@@ -1,6 +1,6 @@
 {
   "name": "browser-tabs-manager",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Manage the browser tabs of a web application",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,5 @@
 # Browser Tabs Manager
-A small and simple free dependency to manage window idle.
+Simple package to manage the browser tabs of a web application
 ## Installation
 ```bash
 npm install browser-tabs-manager
