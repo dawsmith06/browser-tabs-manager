@@ -1,0 +1,22 @@
+{
+  "name": "browser-tabs-manager",
+  "version": "0.0.3",
+  "description": "Manage the browser tabs of a web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "browser-tabs",
+    "tabs",
+    "last-focus-tab",
+    "all-open-tabs"
+  ],
+
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/dawsmith06/browser-tabs-manager"
+  },
+  "author": "Darwin Rosso",
+  "license": "MIT"
+}
